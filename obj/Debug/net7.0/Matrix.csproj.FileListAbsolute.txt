@@ -1,0 +1,14 @@
+C:\Users\lenci\source\repos\Matrix\bin\Debug\net7.0\Matrix.exe
+C:\Users\lenci\source\repos\Matrix\bin\Debug\net7.0\Matrix.deps.json
+C:\Users\lenci\source\repos\Matrix\bin\Debug\net7.0\Matrix.runtimeconfig.json
+C:\Users\lenci\source\repos\Matrix\bin\Debug\net7.0\Matrix.dll
+C:\Users\lenci\source\repos\Matrix\bin\Debug\net7.0\Matrix.pdb
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.dll
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\refint\Matrix.dll
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.pdb
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\Matrix.genruntimeconfig.cache
+C:\Users\lenci\source\repos\Matrix\obj\Debug\net7.0\ref\Matrix.dll
